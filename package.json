@@ -1,0 +1,21 @@
+{
+  "name": "abuybot",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "-",
+  "scripts": {
+    "test": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "."
+  ],
+  "author": "-",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
